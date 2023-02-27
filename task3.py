@@ -12,3 +12,10 @@
 # solution for x
 #
 # test case: 5, 1, 11 should give x = 2
+
+a = int(5)
+b = int(1)
+c = int(11)
+x = a * x + b = c
+print(x)
+
