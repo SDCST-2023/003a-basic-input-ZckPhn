@@ -22,6 +22,11 @@ What ir your email:crazyAsian@qq.com
 Your name is Jackie Chan, and your email is crazyAsian@qq.com
 
 """
-question = "What is your name and gmail address?"
-response = input("question")
-print(f"Your name is Rumple Stilkin, and your email is FarFaraway@gmail,.com {response}")
+question = "What is your name?"
+response = input(question) 
+
+question = "What is your email address?"
+response = input(question)
+
+print(f"My name is Rumple Stiltkin,{response}")
+print(f"My email address is Farqua@gmail.com,{response}")
