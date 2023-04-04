@@ -23,10 +23,9 @@ Your name is Jackie Chan, and your email is crazyAsian@qq.com
 
 """
 question = "What is your name?"
-response = input(question) 
+first_response = input(question) 
 
 question = "What is your email address?"
-response = input(question)
+second_response = input(question)
 
-print(f"My name is Rumple Stiltkin,{response}")
-print(f"My email address is Farqua@gmail.com,{response}")
+print(f"Your name is Rumple Stiltkin,{first_response} and your email address is Farqua@gmail.com.{second_response}")

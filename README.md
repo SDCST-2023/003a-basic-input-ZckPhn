@@ -14,7 +14,7 @@ Note: the data received from an input() statement is always a string, and can't 
 x = int(x)    # converts x into an integer
 x = str(x)    # converts x into a string
 x = float(x)  # converts x into a float
-a = int(b)    # converts b into an integer and stores it into a new variable, a
+a = int(b)    # converts b into an integer and stores it into a new variable,
 ```
 
 You can also cast directly at the time that you retrieve your input:

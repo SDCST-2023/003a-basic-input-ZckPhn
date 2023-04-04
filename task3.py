@@ -13,9 +13,10 @@
 #
 # test case: 5, 1, 11 should give x = 2
 
-a = int(5)
-b = int(1)
-c = int(11)
-x = a * x + b = c
-print(x)
+a = float(input("Enter a value:"))
+b = float(input("Enter b value:"))
+c = float(input("Enter c value:"))
 
+x = (c-b) / a
+
+print(f"solution for x is:{x}")
